@@ -9,7 +9,7 @@ export default function TabPowerBI(){
       <div className="iframe-wrap border rounded-lg overflow-hidden">
         <iframe
           title="Power BI Dashboard"
-          src=""
+          src="https://app.powerbi.com/view?r=eyJrIjoiMTNhMzYxMGQtODllZi00MTM0LTg5YzEtMTFiNzBlYjlmZDlkIiwidCI6IjA3ZGE2N2EwLTFmNDMtNGU4Yy05NzdmLTVmODhiNjQ3MGVlNiIsImMiOjR9"
           width="100%"
           height="600"
           frameBorder="0"
