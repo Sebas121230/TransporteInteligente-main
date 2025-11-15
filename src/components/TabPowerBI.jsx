@@ -1,0 +1,21 @@
+import React from 'react'
+
+export default function TabPowerBI(){
+  return (
+    <div>
+      <h3 className="text-2xl font-semibold mb-3">Panel Power BI</h3>
+      <p className="text-gray-700 mb-4">Aquí se integrará el Dashboard generado a través de la aplicación Powe BI</p>
+
+      <div className="iframe-wrap border rounded-lg overflow-hidden">
+        <iframe
+          title="Power BI Dashboard"
+          src=""
+          width="100%"
+          height="600"
+          frameBorder="0"
+          allowFullScreen
+        ></iframe>
+      </div>
+    </div>
+  )
+}
